@@ -57,8 +57,9 @@ sudo apt install mysql-client sqlmap
 
 
 # Clonar el repositorio
-git clone 
-cd laravel-security-tool
+git clone https://github.com/ELDANI1/SCRIPS-DE-PRUEBA
+cd SCRIP DE PRUEBA
+LUEGO LS PARA SABER DONDE QUEDO EL ARCHIVO , Y ASI PODER VER SI FUE O NO CLONADO 
 
 # Hacer ejecutable
 chmod +x laravel_exploiter.py
