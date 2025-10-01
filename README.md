@@ -193,7 +193,7 @@ sudo apt update
 sudo apt install -y python3 python3-pip mysql-client sqlmap
 
 # Clonar el repositorio
-git clone 
+git clone https://github.com/ELDANI1/SCRIPS-DE-PRUEBA
 cd laravel-security-tool
 
 # Instalar dependencias de Python
