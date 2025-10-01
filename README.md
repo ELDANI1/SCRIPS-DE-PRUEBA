@@ -1,3 +1,21 @@
+*⚠️ Advertencia legal — LEEA ANTES DE SU USO*
+
+**Advertencia legal: El software entregado por Nezuko y Daniel se proporciona tal cual y sin garantías de ningún tipo, explícitas o implícitas. Ni Nezuko ni Daniel serán responsables, en la máxima medida permitida por la ley aplicable, de cualquier daño directo, indirecto, incidental, consecuente o punitivo que resulte del uso, mal uso, incapacidad para usar o la imposibilidad de usar este material.**
+
+*Este contenido no constituye asesoramiento profesional. El usuario final asume toda responsabilidad por la utilización que haga del mismo. Para usos que impliquen riesgos legales, de seguridad o comerciales, se recomienda consultar a un profesional cualificado.*
+
+
+**AL UTILIZAR ESTE SOFTWARE, USTED ACEPTA ESTOS TÉRMINOS Y RECONOCE QUE EL USO INADECUADO PUEDE ACARREAR CONSECUENCIAS LEGALES.**
+
+
+### Prohibiciones Expresas
+**QUEDA ESTRICTAMENTE PROHIBIDO:**
+- Utilizar esta herramienta en sistemas sin autorización explícita
+- Realizar actividades ilegales o no éticas
+- Comprometer la seguridad de terceros sin consentimiento
+- Violar leyes locales, nacionales o internacionales
+
+
 
 ```ascii
 ██████╗  █████╗ ███╗   ██╗██╗███████╗██╗         ██████╗  █████╗ ███╗   ███╗██╗██████╗ ███████╗███████╗
